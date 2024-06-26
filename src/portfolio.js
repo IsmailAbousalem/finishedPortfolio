@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Innovative and skilled Junior Full-Stack Web Developer with 1+ years of experience in web development and DevOps. I specialize in JavaScript, HTML, CSS, and Python, creating efficient and user-friendly solutions. My experience includes an internship at ElementOne Digital, contracted work at Luraph, and participation in Ironhack's Backend Development Bootcamp.",
   resumeLink:
-    "https://drive.google.com/file/d/1QlU_W4GeWXidqAfm6MtJegTK9sXjWSsz/view?usp=sharing",
+    "https://drive.google.com/file/d/1bqyDzas7n354zBpwrytG_xFk7jeX9G88/view?usp=sharing",
   portfolio_repository: "https://github.com/ismailabousalem",
   githubProfile: "https://github.com/ismailabousalem",
 };
