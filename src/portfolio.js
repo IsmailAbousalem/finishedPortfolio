@@ -404,19 +404,19 @@ const competitiveSites = {
 
 const degrees = {
   degrees: [
-    {
-      title: "Florida International University",
-      subtitle: "Masters of Science in Computer Science",
-      logo_path: "fiuLogo.png",
-      alt_name: "FIU",
-      duration: "2025 - 2026",
-      descriptions: [
-        // "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        // "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        // "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
-      ],
-      // website_link: "http://iiitk.ac.in",
-    },
+    // {
+    //   title: "Florida International University",
+    //   subtitle: "Masters of Science in Computer Science",
+    //   logo_path: "fiuLogo.png",
+    //   alt_name: "FIU",
+    //   duration: "2025 - 2026",
+    //   descriptions: [
+    //     // "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+    //     // "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+    //     // "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+    //   ],
+    //   // website_link: "http://iiitk.ac.in",
+    // },
     {
       title: "Florida International University",
       subtitle: "Bachelors of Science in Computer Science",
